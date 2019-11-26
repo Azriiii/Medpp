@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.png</file>
+        <file>Login.png</file>
+        <file>LoginMed.png</file>
+        <file>Loginsec.png</file>
+        <file>Admin inter.png</file>
+        <file>Med Inter.png</file>
+        <file>Sec Inter.png</file>
+        <file>AjoutPerso.png</file>
+        <file>AfficherPers.png</file>
+        <file>SuprimerPerso.png</file>
+        <file>Ajouter Consultation.png</file>
+        <file>ModifierConsultation.png</file>
+        <file>SuppConst.png</file>
+        <file>AfficherCnst.png</file>
+        <file>AffOrd.png</file>
+        <file>Ajouter ordonance.png</file>
+        <file>ModifierOrd.png</file>
+        <file>SuppOrd.png</file>
+        <file>ModPers.png</file>
+        <file>icon.png</file>
+        <file>AffFournissuer.png</file>
+        <file>AfficherEqui.png</file>
+        <file>AfficherFour.png</file>
+        <file>AfficherStaff.png</file>
+        <file>AffichFact.png</file>
+        <file>AjouterEqui.png</file>
+        <file>AjoutFour.png</file>
+        <file>AjoutFournissuer.png</file>
+        <file>AjoutStaff.png</file>
+        <file>ModifFourni.png</file>
+        <file>ModifierEqui.png</file>
+        <file>ModifierFact.png</file>
+        <file>ModifierFou.png</file>
+        <file>ModStaff.png</file>
+        <file>SuppEqui.png</file>
+        <file>SuppFact.png</file>
+        <file>SuppFour.png</file>
+        <file>SupprimeFourni.png</file>
+        <file>SuprimerStaff.png</file>
+        <file>AjouterFacture.png</file>
+    </qresource>
+</RCC>
