@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.png</file>
+        <file>Login.png</file>
+        <file>LoginMed.png</file>
+        <file>Loginsec.png</file>
+        <file>Admin inter.png</file>
+        <file>Med Inter.png</file>
+        <file>Sec Inter.png</file>
+        <file>AjoutPerso.png</file>
+        <file>AfficherPers.png</file>
+        <file>SuprimerPerso.png</file>
+        <file>Ajouter Consultation.png</file>
+        <file>ModifierConsultation.png</file>
+        <file>SuppConst.png</file>
+        <file>AfficherCnst.png</file>
+        <file>AffOrd.png</file>
+        <file>Ajouter ordonance.png</file>
+        <file>ModifierOrd.png</file>
+        <file>SuppOrd.png</file>
+        <file>icon.png</file>
+    </qresource>
+</RCC>
