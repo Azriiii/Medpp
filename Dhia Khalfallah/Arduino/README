@@ -1,1 +1,2 @@
 Our Arduino code for temperature reading 
+NB : You have to install DHT libraries for the code to work ( DHT by AdaFruit , Global sensors by AdaFruit ) 
