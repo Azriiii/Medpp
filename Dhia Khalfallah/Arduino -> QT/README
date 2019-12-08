@@ -1,0 +1,1 @@
+Reading the temperature sent from Arduino and displaying it in a UI w/o showing a message if it is greater then 24°C , this module is yet to be integrated WIP .
