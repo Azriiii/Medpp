@@ -1,1 +1,2 @@
 Reading the temperature sent from Arduino and displaying it in a UI w/o showing a message if it is greater then 24°C , this module is yet to be integrated WIP .
+Please note that you need to update to QT 5.13.2 if you have 5.13.1 for it to work since Qt 5.13.1 has a bug that prevent it from reading the signal from a serial port . If you have an other Version that 5.13.1 everything would work just fine .
